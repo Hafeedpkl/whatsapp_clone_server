@@ -1,25 +1,17 @@
 {
-  "name": "whatsapp_clone_server",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
   "dependencies": {
-    "express": "^4.17.1",
-    "nodemon": "^2.0.7",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20",
     "socket.io": "^2.3.0"
   },
+  "name": "whatsapp_clone_server",
+  "description": "!!!!! It is  under construction.it is not completed yet!!!!!",
+  "version": "1.0.0",
+  "main": "index.js",
   "devDependencies": {},
   "scripts": {
-    "dev":"nodemon index"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/DevStack06/Chat-Server.git"
+    "dev": "nodemon index"
   },
   "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/DevStack06/Chat-Server/issues"
-  },
-  "homepage": "https://github.com/DevStack06/Chat-Server#readme"
+  "license": "ISC"
 }
